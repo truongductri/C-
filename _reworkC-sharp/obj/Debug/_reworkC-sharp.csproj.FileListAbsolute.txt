@@ -1,0 +1,6 @@
+D:\_workspace\_learning\C#\_reworkC-sharp\_reworkC-sharp\bin\Debug\_reworkC-sharp.exe.config
+D:\_workspace\_learning\C#\_reworkC-sharp\_reworkC-sharp\bin\Debug\_reworkC-sharp.exe
+D:\_workspace\_learning\C#\_reworkC-sharp\_reworkC-sharp\bin\Debug\_reworkC-sharp.pdb
+D:\_workspace\_learning\C#\_reworkC-sharp\_reworkC-sharp\obj\Debug\_reworkC-sharp.exe
+D:\_workspace\_learning\C#\_reworkC-sharp\_reworkC-sharp\obj\Debug\_reworkC-sharp.pdb
+D:\_workspace\_learning\C#\_reworkC-sharp\_reworkC-sharp\obj\Debug\_reworkC-sharp.csprojResolveAssemblyReference.cache
